@@ -1,0 +1,7 @@
+id = "proof-theme"
+name = "Proof"
+version = "0.1.0"
+schema_version = 1
+authors = ["Eugene Bokhan"]
+description = "ChatGPT's Proof palette for Zed, with light and dark variants."
+repository = "https://github.com/eugenebokhan/zed-proof-theme"
